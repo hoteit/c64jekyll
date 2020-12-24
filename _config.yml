@@ -2,7 +2,7 @@
 title: Tarek Hoteit
 email: tarek@leb.ai
 description: blogging as if it was the 80s
-baseurl: "/retro/" # the subpath of your site, e.g. /blog/
+baseurl: "/retro" # the subpath of your site, e.g. /blog/
 url: "https://www.tarek.computer" # the base hostname & protocol for your site
 twitter_username: hoteit
 github_username:  hoteit
