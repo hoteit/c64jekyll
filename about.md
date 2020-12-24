@@ -8,4 +8,4 @@ I am Tarek Hoteit, vintage computing and retro gaming enthusiast. My passion in 
 
 This site is my personal space for vintage computing, retro gaming, and any related old-school tech material.
 
-![Tarek with a C64](/images/tarek-c64.jpg)
+![Tarek with a C64](/images/tarek-c64.jpg){: .center-image }
